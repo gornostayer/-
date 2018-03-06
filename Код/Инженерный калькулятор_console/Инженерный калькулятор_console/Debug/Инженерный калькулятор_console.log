@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  Инженерный калькулятор_console.cpp
+c:\users\игорь\documents\курсач\код\инженерный калькулятор_console\инженерный калькулятор_console\инженерный калькулятор_console.cpp(27): warning C4244: =: преобразование "long double" в "__int64", возможна потеря данных
+c:\users\игорь\documents\курсач\код\инженерный калькулятор_console\инженерный калькулятор_console\инженерный калькулятор_console.cpp(32): warning C4244: =: преобразование "long double" в "__int64", возможна потеря данных
+c:\users\игорь\documents\курсач\код\инженерный калькулятор_console\инженерный калькулятор_console\инженерный калькулятор_console.cpp(37): warning C4244: =: преобразование "long double" в "__int64", возможна потеря данных
+c:\users\игорь\documents\курсач\код\инженерный калькулятор_console\инженерный калькулятор_console\инженерный калькулятор_console.cpp(46): warning C4244: =: преобразование "long double" в "__int64", возможна потеря данных
+c:\users\игорь\documents\курсач\код\инженерный калькулятор_console\инженерный калькулятор_console\инженерный калькулятор_console.cpp(50): warning C4244: аргумент: преобразование "long double" в "int", возможна потеря данных
+c:\users\игорь\documents\курсач\код\инженерный калькулятор_console\инженерный калькулятор_console\инженерный калькулятор_console.cpp(51): warning C4244: аргумент: преобразование "long double" в "int", возможна потеря данных
+c:\users\игорь\documents\курсач\код\инженерный калькулятор_console\инженерный калькулятор_console\инженерный калькулятор_console.cpp(57): warning C4244: =: преобразование "long double" в "__int64", возможна потеря данных
+  Инженерный калькулятор_console.vcxproj -> C:\Users\Игорь\Documents\Курсач\Код\Инженерный калькулятор_console\Debug\Инженерный калькулятор_console.exe
+  Инженерный калькулятор_console.vcxproj -> C:\Users\Игорь\Documents\Курсач\Код\Инженерный калькулятор_console\Debug\Инженерный калькулятор_console.pdb (Full PDB)
